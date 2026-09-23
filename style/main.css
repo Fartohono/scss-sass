@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --text-color:#212121;
+  --accent-color:#000;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}/*# sourceMappingURL=main.css.map */
